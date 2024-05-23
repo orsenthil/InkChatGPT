@@ -35,11 +35,8 @@ st.set_page_config(
     page_icon="📚",
     initial_sidebar_state=st.session_state.sidebar_state,
     menu_items={
-        "Get Help": "https://x.com/vinhnx",
-        "Report a bug": "https://github.com/vinhnx/InkChatGPT/issues",
-        "About": """InkChatGPT is a simple Retrieval Augmented Generation (RAG) application that allows users to upload PDF documents and engage in a conversational Q&A, with a language model (LLM) based on the content of those documents.
-        
-        GitHub: https://github.com/vinhnx/InkChatGPT""",
+        "About": """InkChatGPT is a simple Retrieval Augmented Generation (RAG) application that allows users to upload PDF documents and engage in a conversational Q&A, with a language model (LLM) based on the content of those documents.       
+        GitHub: https://github.com/orsenthil/InkChatGPT""",
     },
 )
 
